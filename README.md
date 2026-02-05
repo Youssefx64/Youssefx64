@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 YOUSSEF TAHA
+# 🧠 Youssef Taha Badawi
 
 ### AI Engineer | GenAI Solution Developer | NLP & LLMs Specialist
 ### Architecting Agentic AI & RAG Systems
@@ -414,7 +414,7 @@ const funFacts = {
 
 [![Email](https://img.shields.io/badge/Email-ytaha8586@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ytaha8586@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousseftahaai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssef-taha.netlify.app/)
 
 </div>
 
