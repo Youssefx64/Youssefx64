@@ -3,7 +3,7 @@
 # 🧠 YOUSSEF TAHA
 
 ### AI Engineer | GenAI Solution Developer | NLP & LLMs Specialist
-### Architecting Agentic AI & RAG Systems | Deep Learning Addict
+### Architecting Agentic AI & RAG Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+The+Future+of+AI+Systems;Transforming+Ideas+Into+Intelligent+Solutions;Where+Code+Meets+Intelligence" alt="Typing SVG" />
 
