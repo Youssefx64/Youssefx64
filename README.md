@@ -231,21 +231,48 @@ class YousefTaha:
 
 <div align="center">
 
-## 🔥 GITHUB ACTIVITY
+## 📊 GITHUB STATISTICS & ANALYTICS
 
 </div>
 
 <div align="center">
 
+### 📈 **Overall GitHub Stats**
+
 <a href="https://github.com/Youssef-Ai1001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ai1001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ai1001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"/>
+</a>
+
+<br/>
+
+### 🔥 **Contribution Streak**
+
+<a href="https://github.com/Youssef-Ai1001">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ai1001&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</a>
+
+<br/>
+
+### 💻 **Most Used Languages**
+
+<a href="https://github.com/Youssef-Ai1001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ai1001&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </a>
 
 <br/>
 
+### 📊 **Detailed Language Statistics**
+
 <a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ai1001&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ai1001&theme=radical&hide_border=true&layout=donut&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</a>
+
+<br/>
+
+### 🌐 **Language Distribution Over Time**
+
+<a href="https://github.com/Youssef-Ai1001">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef-Ai1001&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact"/>
 </a>
 
 </div>
@@ -261,6 +288,56 @@ class YousefTaha:
 <div align="center">
 
 [![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ai1001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Youssef-Ai1001)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📉 **ADVANCED METRICS & INSIGHTS**
+
+</div>
+
+<div align="center">
+
+### 🎯 **Commit Statistics**
+
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/Youssef-Ai1001/Youssef-Ai1001?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Youssef-Ai1001/Youssef-Ai1001?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+
+<br/>
+
+### 📦 **Repository Insights**
+
+<a href="https://github.com/Youssef-Ai1001">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Ai1001&theme=radical"/>
+</a>
+
+<br/>
+
+### ⏰ **Productive Time Analysis**
+
+<a href="https://github.com/Youssef-Ai1001">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Ai1001&theme=radical&utcOffset=2"/>
+</a>
+
+<br/>
+
+### 📊 **Commit & Language Stats Combined**
+
+<a href="https://github.com/Youssef-Ai1001">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youssef-Ai1001&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Ai1001&theme=radical"/>
+</a>
+
+<br/>
+
+### 💹 **Most Commit Language**
+
+<a href="https://github.com/Youssef-Ai1001">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Ai1001&theme=radical"/>
+</a>
 
 </div>
 
