@@ -17,7 +17,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SirYoussefx64)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ytaha8586@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=youssef-ai1001&label=Profile%20Views&color=00d9ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Youssefx64&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 
 </div>
 
@@ -239,40 +239,40 @@ class YousefTaha:
 
 ### 📈 **Overall GitHub Stats**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Ai1001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"/>
+<a href="https://github.com/Youssefx64">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssefx64&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github"/>
 </a>
 
 <br/>
 
 ### 🔥 **Contribution Streak**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Ai1001&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<a href="https://github.com/Youssefx64">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefx64&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </a>
 
 <br/>
 
 ### 💻 **Most Used Languages**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ai1001&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<a href="https://github.com/Youssefx64">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefx64&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </a>
 
 <br/>
 
 ### 📊 **Detailed Language Statistics**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ai1001&theme=radical&hide_border=true&layout=donut&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<a href="https://github.com/Youssefx64">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefx64&theme=radical&hide_border=true&layout=donut&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </a>
 
 <br/>
 
 ### 🌐 **Language Distribution Over Time**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssef-Ai1001&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact"/>
+<a href="https://github.com/Youssefx64">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Youssefx64&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact"/>
 </a>
 
 </div>
@@ -287,7 +287,7 @@ class YousefTaha:
 
 <div align="center">
 
-[![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Ai1001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Youssef-Ai1001)
+[![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssefx64&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Youssefx64)
 
 </div>
 
@@ -303,40 +303,40 @@ class YousefTaha:
 
 ### 🎯 **Commit Statistics**
 
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/Youssef-Ai1001/Youssef-Ai1001?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Youssef-Ai1001/Youssef-Ai1001?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/Youssefx64/Youssefx64?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Youssefx64/Youssefx64?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
 
 <br/>
 
 ### 📦 **Repository Insights**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Ai1001&theme=radical"/>
+<a href="https://github.com/Youssefx64">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssefx64&theme=radical"/>
 </a>
 
 <br/>
 
 ### ⏰ **Productive Time Analysis**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Ai1001&theme=radical&utcOffset=2"/>
+<a href="https://github.com/Youssefx64">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssefx64&theme=radical&utcOffset=2"/>
 </a>
 
 <br/>
 
 ### 📊 **Commit & Language Stats Combined**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youssef-Ai1001&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Ai1001&theme=radical"/>
+<a href="https://github.com/Youssefx64">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youssefx64&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssefx64&theme=radical"/>
 </a>
 
 <br/>
 
 ### 💹 **Most Commit Language**
 
-<a href="https://github.com/Youssef-Ai1001">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Ai1001&theme=radical"/>
+<a href="https://github.com/Youssefx64">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssefx64&theme=radical"/>
 </a>
 
 </div>
@@ -352,7 +352,7 @@ class YousefTaha:
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Ai1001&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssefx64&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15"/>
 </a>
 
 </div>
