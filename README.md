@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A66C2,100:00A8E8&height=200&section=header&text=Youssef%20Taha%20Badawi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Youssef Taha Badawi | Generative AI Engineer" />
 
-### Generative AI Engineer · LLM & RAG Systems · Backend AI Engineering
+<h3>Generative AI Engineer · LLM & RAG Systems · Backend AI Engineering</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=800&height=50&lines=Building+production-ready+LLM+%26+RAG+systems;Turning+research+into+working+software;Agentic+AI+%C2%B7+Vector+Search+%C2%B7+FastAPI;Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
 
@@ -136,21 +136,56 @@ CNN pipeline classifying emotions from audio using **MFCC / spectrogram** featur
 
 ## 📊 GitHub Activity
 
+<br/>
+
 <div align="center">
 
+<h3>🔥 Contribution Streak</h3>
 <img src="https://streak-stats.demolab.com/?user=Youssefx64&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A8E8&ring=00A8E8&fire=00A8E8&currStreakLabel=00A8E8" alt="GitHub Streak" />
 
-<br/><br/>
+<br/><br/><br/>
 
+---
+
+<h3>🐍 Contribution Snake</h3>
 <img src="https://raw.githubusercontent.com/Youssefx64/Youssefx64/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
-<br/><br/>
+<br/><br/><br/>
 
-<img src="./github-metrics-overview.svg" alt="GitHub overview" width="100%" />
+---
 
-<img src="./github-metrics-languages.svg" alt="Languages and achievements" width="100%" />
+<h3>👤 Profile Overview</h3>
+<img src="./github-metrics-profile.svg" alt="Profile overview" width="100%" />
 
+<br/><br/><br/>
+
+---
+
+<h3>⚡ Activity & Community</h3>
+<img src="./github-metrics-activity.svg" alt="Activity and community" width="100%" />
+
+<br/><br/><br/>
+
+---
+
+<h3>📦 Repositories</h3>
+<img src="./github-metrics-repos.svg" alt="Repositories" width="100%" />
+
+<br/><br/><br/>
+
+---
+
+<h3>💻 Most Used Languages</h3>
+<img src="./github-metrics-languages.svg" alt="Languages" width="100%" />
+
+<br/><br/><br/>
+
+---
+
+<h3>🗓️ Contributions Calendar</h3>
 <img src="./github-metrics-calendar.svg" alt="Contribution calendar" width="100%" />
+
+<br/><br/>
 
 </div>
 
